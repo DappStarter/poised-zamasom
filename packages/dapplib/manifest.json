@@ -1,0 +1,15 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Test",
+        "/category/asset_value_tracking/token/symbol": "Tst",
+        "/category/asset_value_tracking/token/decimals": "6",
+        "/category/asset_value_tracking/token/supply": "1000",
+        "/category/collection/entity": true
+    }
+}
